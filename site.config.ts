@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '',
-  github: 'minseokk7/poe2filter-releases',
+  github: 'minseokk77/poe2filter-releases',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
